@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>Connect four</title>
+	</head>
+		<body bgcolor="white" text="red">
+		<center><marquee behavior="alternate" width="100%" direction="right" bgcolor="yellow"><h1>Welcome to connect four game</h1></marquee></center>
+<a href="index.html"><h2>Start the Game/h2></a>
+
+		
+		</body>
+
+</html>
