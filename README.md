@@ -1,7 +1,7 @@
 PROJECT NAME : CONNECT FOUR.
 
 INTRODUCTION:
-Sir , our project is about a game where we have 7 rows and 6
+My project is about a game where we have 7 rows and 6
 columns where at a time two players where these two players
 need to select one colour either red or blue and if 4 in a
 horizontal,vertical or diagonal meet the player with that
